@@ -6,9 +6,9 @@ permalink: /publication/2025-04-24-dictionary-model-reduction-state-estimation
 excerpt: 'Inverse problem, model order reduction, sparse approximation, randomized linear algebra.'
 date: 2024-04-24
 venue: 'Advances in Computational Mathematics, Volume 50, article number 32, (2024)'
-slidesurl: 'https://alexandre-pasco.github.io/files/publications/2025-04-24-dictionary-model-reduction-state-estimation/slides.pdf'
-paperurl: 'https://doi.org/10.48550/arXiv.2303.10771'
-bibtexurl: 'https://alexandre-pasco.github.io/files/publications/2025-04-24-dictionary-model-reduction-state-estimation/citation.pdf'
+slidesurl: 'https://alexandre-pasco.github.io/files/publications/2024-04-24-dictionary-model-reduction-state-estimation/slides.pdf'
+paperurl: 'https://doi.org/10.1007/s10444-024-10129-4'
+bibtexurl: 'https://alexandre-pasco.github.io/files/publications/2024-04-24-dictionary-model-reduction-state-estimation/citation.pdf'
 citation: 'Nouy, A., & Pasco, A. (2024). Dictionary-Based Model Reduction for State Estimation. Adv Comput Math, 50(3), 32. doi:10.1007/s10444-024-10129-4'
 ---
 
