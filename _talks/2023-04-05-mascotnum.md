@@ -3,6 +3,7 @@ title: "Mascot-Num Conference"
 collection: talks
 type: "Poster"
 permalink: /talks/2023-04-05-mascotnum
+venue: "Mascot-Num"
 date: 2023-04-05
 location: "Le Croisic, France"
 ---
