@@ -1,152 +1,212 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Alexandre Pasco",
+    "email": "alexandre.pasco@ec-nantes.fr",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://alexandre-pasco.github.io",
+    "summary": "Currently 3rd year Ph.D student in applied mathematics at Ecole Centrale de Nantes.",
     "location": {
       "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "postalCode": "44000",
+      "city": "Nantes",
+      "countryCode": "FR",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=15G4uWUAAAAJ&hl"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "http://orcid.org/0009-0008-2133-5551"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "alexandre-pasco",
+        "url": "https://github.com/alexandre-pasco"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "alexandrepascoecn",
+        "url": "https://www.linkedin.com/in/alexandrepascoecn"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Ecole Centrale de Nantes",
+      "area": "Ph.D in Applied Mathematics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2022-12",
+      "endDate": "2025-11",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Ecole Centrale de Nantes",
+      "area": "Engineering ",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2019-09",
+      "endDate": "2022-10",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Lycée Clémenceau (Nantes)",
+      "area": "CPGE Mathematics Physics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2017-09",
+      "endDate": "2019-08",
       "gpa": null,
       "courses": []
     }
   ],
   "skills": [],
-  "languages": [],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Intermediate (JLPT N4)"
+    }
+  ],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Dictionary-based model reduction for state estimation",
+      "publisher": "Advances in Computational Mathematics, Volume 50, article number 32, (2024)",
+      "releaseDate": "2024-04-24",
+      "website": "https://doi.org/10.48550/arXiv.2303.10771",
+      "summary": "Inverse problem, model order reduction, sparse approximation, randomized linear algebra."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Surrogate to Poincaré inequalities on manifolds for dimension reduction in nonlinear feature spaces",
+      "publisher": "arXiv",
+      "releaseDate": "2025-05-23",
+      "website": "https://arxiv.org/abs/2505.01807",
+      "summary": "High-dimensional approximation, Poincaré inequality, dimension reduction, nonlinear feature learning, deviation inequalities."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Séminaire des doctorants du LMJL",
+      "event": "LMJL, Nantes Université",
+      "date": "2023-03-06",
+      "location": "Nantes, France",
+      "description": "Talk"
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "name": "Young Mathematicians in Model Order Reduction Conference (YMMOR)",
+      "event": "University of Ulm",
+      "date": "2023-03-21",
+      "location": "Ulm, Germany",
+      "description": "Talk"
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
+      "name": "Mascot-Num Conference",
+      "event": "Mascot-Num",
+      "date": "2023-04-05",
+      "location": "Le Croisic, France",
+      "description": "Poster"
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Séminaire de Mathématiques Appliquées du LMJL",
+      "event": "LMJL, Nantes Université",
+      "date": "2023-04-18",
+      "location": "Nantes, France",
+      "description": "Talk"
+    },
+    {
+      "name": "Congrès des Jeunes Chercheuses et Chercheurs en Mathématiques et Applications (CJC-MA)",
+      "event": "CentraleSupélec",
+      "date": "2023-09-25",
+      "location": "Gif-sur-Yvette, France",
+      "description": "Talk"
+    },
+    {
+      "name": "SIAM Conference on Uncertainty Quantification",
+      "event": "",
+      "date": "2024-02-27",
+      "location": "Trieste, Italy",
+      "description": "Talk"
+    },
+    {
+      "name": "Young Mathematicians in Model Order Reduction Conference (YMMOR)",
+      "event": "University of Stuttgart",
+      "date": "2024-03-08",
+      "location": "Stuttgart, Germany",
+      "description": "Talk"
+    },
+    {
+      "name": "Rencontres Doctorales Lebesgue (RDL)",
+      "event": "LAREMA",
+      "date": "2024-04-25",
+      "location": "Rennes, France",
+      "description": "Talk"
+    },
+    {
+      "name": "46ème Congrès National d'Analyse Numérique (CANUM)",
+      "event": "CANUM",
+      "date": "2024-05-27",
+      "location": "Ile de Ré, France",
+      "description": "Poster"
+    },
+    {
+      "name": "Young Mathematicians in Model Order Reduction Conference (YMMOR)",
+      "event": "SISSA",
+      "date": "2025-05-08",
+      "location": "Trieste, Italy",
+      "description": "Talk"
+    },
+    {
+      "name": "RT-UQ PhD-day",
+      "event": "Université Grenoble Alpes",
+      "date": "2025-05-22",
+      "location": "Grenoble, France",
+      "description": "Talk"
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "(GTA) Mathematics for engineering",
+      "institution": "Ecole Centrale de Nantes",
+      "date": "2022-12-01",
+      "role": "Graduate Teacher Assistant",
+      "description": "Undergraduate course"
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "(GTA) Graduate students project supervision",
+      "institution": "Ecole Centrale de Nantes",
+      "date": "2023-10-01",
+      "role": "Graduate Teacher Assistant",
+      "description": "Graduate project supervision"
+    },
+    {
+      "course": "(GTA) Ordinary Differential Equations",
+      "institution": "Ecole Centrale de Nantes",
+      "date": "2024-02-01",
+      "role": "Graduate Teacher Assistant",
+      "description": "Undergraduate course"
     }
   ],
-  "portfolio": [
+  "extra": [
     {
-      "name": "Portfolio item number 1",
+      "name": "Referent Researcher at MATh.en.JEANS",
       "category": "portfolio",
-      "date": "",
+      "date": "2023-10-01",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Introducing middle‑school students to mathematical research through teamwork on open‑ended problems. "
     }
   ]
 }
