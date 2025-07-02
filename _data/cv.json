@@ -2,7 +2,7 @@
   "basics": {
     "name": "Alexandre Pasco",
     "email": "alexandre.pasco@ec-nantes.fr",
-    "phone": "",
+    "phone": "(+33)645113090",
     "website": "https://alexandre-pasco.github.io",
     "summary": "Currently 3rd year Ph.D student in applied mathematics at Ecole Centrale de Nantes.",
     "location": {
@@ -35,23 +35,40 @@
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Union Mutualiste Retraite",
+      "position": "Actuarial internship",
+      "startDate": "2021.01",
+      "endDate": "2021.08",
+      "summary": null,
+      "highlights": []
+    },
+    {
+      "company": "Laboratoire Mathématiques Jean Leray",
+      "position": "Researcher internship",
+      "startDate": "2022.04", 
+      "endDate": "2022.09",
+      "summary": null,
+      "highlights": []
+    }
+  ],
   "education": [
     {
       "institution": "Ecole Centrale de Nantes",
       "area": "Ph.D in Applied Mathematics",
       "studyType": "",
-      "startDate": "2022-12",
-      "endDate": "2025-11",
+      "startDate": "2022.12",
+      "endDate": "2025.11",
       "gpa": null,
       "courses": []
     },
     {
       "institution": "Ecole Centrale de Nantes",
-      "area": "Engineering ",
+      "area": "(Master's) Engineer's degree: applied mathematics and research",
       "studyType": "",
-      "startDate": "2019-09",
-      "endDate": "2022-10",
+      "startDate": "2019.09",
+      "endDate": "2022.11",
       "gpa": null,
       "courses": []
     },
@@ -59,14 +76,18 @@
       "institution": "Lycée Clémenceau (Nantes)",
       "area": "CPGE Mathematics Physics",
       "studyType": "",
-      "startDate": "2017-09",
-      "endDate": "2019-08",
+      "startDate": "2017.09",
+      "endDate": "2019.08",
       "gpa": null,
       "courses": []
     }
   ],
   "skills": [],
   "languages": [
+    {
+      "language": "French",
+      "fluency": "Native"
+    },
     {
       "language": "English",
       "fluency": "Advanced"
@@ -87,7 +108,7 @@
       "name": "Dictionary-based model reduction for state estimation",
       "publisher": "Advances in Computational Mathematics, Volume 50, article number 32, (2024)",
       "releaseDate": "2024-04-24",
-      "website": "https://doi.org/10.48550/arXiv.2303.10771",
+      "website": "https://doi.org/10.1007/s10444-024-10129-4",
       "summary": "Inverse problem, model order reduction, sparse approximation, randomized linear algebra."
     },
     {
@@ -179,34 +200,44 @@
   ],
   "teaching": [
     {
-      "course": "(GTA) Mathematics for engineering",
+      "course": "(TA) Mathematics for engineering",
       "institution": "Ecole Centrale de Nantes",
-      "date": "2022-12-01",
-      "role": "Graduate Teacher Assistant",
-      "description": "Undergraduate course"
+      "startDate": "2023.02",
+      "endDate": "2025.01",
+      "role": "Teacher Assistant",
+      "description": "Undergraduate course and computer sessions"
     },
     {
-      "course": "(GTA) Graduate students project supervision",
+      "course": "(TA) Applied mathematics project",
       "institution": "Ecole Centrale de Nantes",
-      "date": "2023-10-01",
-      "role": "Graduate Teacher Assistant",
-      "description": "Graduate project supervision"
+      "startDate": "2023.10",
+      "endDate": "2025.04",
+      "role": "Teacher Assistant",
+      "description": "Graduate students project supervision"
     },
     {
-      "course": "(GTA) Ordinary Differential Equations",
+      "course": "(TA) Ordinary Differential Equations",
       "institution": "Ecole Centrale de Nantes",
-      "date": "2024-02-01",
-      "role": "Graduate Teacher Assistant",
+      "startDate": "2024.02",
+      "endDate": "2024.03",
+      "role": "Teacher Assistant",
       "description": "Undergraduate course"
     }
   ],
-  "extra": [
+  "societal": [
     {
-      "name": "Referent Researcher at MATh.en.JEANS",
-      "category": "portfolio",
-      "date": "2023-10-01",
-      "url": "",
-      "description": "Introducing middle‑school students to mathematical research through teamwork on open‑ended problems. "
+      "name": "Referent Researcher in middle schools",
+      "institution": "MATh.en.JEANS",
+      "startDate": "2023.10",
+      "endDate": "2025.03",
+      "description": "Introducing pupils to mathematical research through teamwork on open-ended problems."
+    },
+    {
+      "name": "Volunteer tutor in maths and physics",
+      "institution": "Ecole Centrale de Nantes",
+      "startDate": "2019.10",
+      "endDate": "2021.04",
+      "description": "Weekly tutoring sessions with students in preparatory classes for entrance to Grandes Ecoles."
     }
   ]
 }
