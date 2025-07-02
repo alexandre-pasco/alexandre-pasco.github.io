@@ -4,7 +4,7 @@
   margin: 0 auto;
   font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #333;
-  line-height: 1.6;
+  line-height: normal;
 }
 
 /* Header Styles */
@@ -74,13 +74,13 @@
 
 /* Item Styles */
 .cv-item {
-  margin-bottom: 1.5rem;
+  margin-bottom: 1rem;
 }
 
 .cv-item-header {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0rem;
 }
 
 .cv-item-title {
@@ -94,11 +94,11 @@
 
 .cv-item-subtitle {
   color: #666;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0rem;
 }
 
 .cv-item-summary {
-  margin-bottom: 0.5rem;
+  margin-bottom: 0rem;
 }
 
 .cv-item-highlights {
