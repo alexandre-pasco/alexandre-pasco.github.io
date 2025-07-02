@@ -37,10 +37,10 @@
   },
   "work": [
     {
-      "company": "Union Mutualiste Retraite",
-      "position": "Actuarial internship",
-      "startDate": "2021.01",
-      "endDate": "2021.08",
+      "company": "Ecole Centrale de Nantes",
+      "position": "Teacher assistant",
+      "startDate": "2023.02", 
+      "endDate": "2025.03",
       "summary": null,
       "highlights": []
     },
@@ -49,6 +49,14 @@
       "position": "Researcher internship",
       "startDate": "2022.04", 
       "endDate": "2022.09",
+      "summary": null,
+      "highlights": []
+    },
+    {
+      "company": "Union Mutualiste Retraite",
+      "position": "Actuarial internship",
+      "startDate": "2021.01",
+      "endDate": "2021.08",
       "summary": null,
       "highlights": []
     }
@@ -93,12 +101,12 @@
       "fluency": "Advanced"
     },
     {
-      "language": "Spanish",
-      "fluency": "Intermediate"
-    },
-    {
       "language": "Japanese",
       "fluency": "Intermediate (JLPT N4)"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Beginner"
     }
   ],
   "interests": [],
