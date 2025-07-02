@@ -4,7 +4,7 @@
     "email": "alexandre.pasco@ec-nantes.fr",
     "phone": "(+33)645113090",
     "website": "https://alexandre-pasco.github.io",
-    "summary": "Currently 3rd year Ph.D student in applied mathematics at Ecole Centrale de Nantes.",
+    "summary": "Currently 3rd year Ph.D student in applied mathematics at Ecole Centrale de Nantes. My research is mainly about dimension reduction methods for high-dimensional approximation. ",
     "location": {
       "address": "",
       "postalCode": "44000",
@@ -45,7 +45,7 @@
       "highlights": []
     },
     {
-      "company": "Laboratoire Mathématiques Jean Leray",
+      "company": "Laboratoire de Mathématiques Jean Leray",
       "position": "Researcher internship",
       "startDate": "2022.04", 
       "endDate": "2022.09",
@@ -59,7 +59,7 @@
       "area": "Ph.D in Applied Mathematics",
       "studyType": "",
       "startDate": "2022.12",
-      "endDate": "2025.11",
+      "endDate": "today",
       "gpa": null,
       "courses": []
     },
@@ -226,11 +226,18 @@
   ],
   "societal": [
     {
+      "name": "Doctoral student representative on the laboratory board",
+      "institution": "Laboratoire de Mathématiques Jean Leray",
+      "startDate": "2024.09",
+      "endDate": "2025.06",
+      "description": ""
+    },
+    {
       "name": "Referent Researcher in middle schools",
       "institution": "MATh.en.JEANS",
       "startDate": "2023.10",
       "endDate": "2025.03",
-      "description": "Introducing pupils to mathematical research through teamwork on open-ended problems."
+      "description": "Introducing young people to mathematical research through teamwork on open-ended problems."
     },
     {
       "name": "Volunteer tutor in maths and physics",
