@@ -1,17 +1,17 @@
 ---
-title: "(GTA): Mathematics for engineering"
+title: "(TA): Mathematics for engineering"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate course and computer sessions"
 permalink: /teaching/2023-maths
 venue: "Ecole Centrale de Nantes"
-excerpt: "Graduate Teacher Assistant"
+excerpt: "Teacher Assistant"
 date: 2022-12-01
 location: "Nantes, France"
 ---
 
 Supervised by:
 - Françoise Foucher (associate professor)
-- Marie Billaud-Friess (former associate professor, now full professor)
+- Marie Billaud-Friess (associate professor)
 - Mazen Saad (full professor).
 
 ## Description

@@ -1,10 +1,10 @@
 ---
-title: "(GTA) Graduate students project supervision"
+title: "(TA) Graduate students project supervision"
 collection: teaching
-type: "Project supervision"
+type: "Graduate students project supervision"
 permalink: /teaching/2023-project-mathapp
 venue: "Ecole Centrale de Nantes"
-excerpt: "Graduate Teacher Assistant"
+excerpt: "Teacher Assistant"
 date: 2023-10-01
 location: "Nantes, France"
 ---
