@@ -14,11 +14,11 @@ citation: 'Nouy, A., & Pasco, A. (2025). Surrogate to Poincaré inequalities on 
 
 
 ## Abstract
-We aim to approximate a continuously differentiable function $u:\mathbb{R}^d \rightarrow \mathbb{R}$ by a composition of functions $f\circ g$ where $g:\mathbb{R}^d \rightarrow \mathbb{R}^m$, $m\leq d$, and $f : \mathbb{R}^m \rightarrow \mathbb{R}$ are built in a two stage procedure.
-For a fixed $g$, we build $f$ using classical regression methods, involving evaluations of $u$.
-Recent works proposed to build a nonlinear $g$ by minimizing a loss function $\mathcal{J}$ derived from Poincar\'e inequalities on manifolds, involving evaluations of the gradient of $u$.
-A problem is that minimizing $\mathcal{J}$ may be a challenging task.
-Hence in this work, we introduce new convex surrogates to $\mathcal{J}$.
-Leveraging concentration inequalities, we provide sub-optimality results for a class of functions $g$, including polynomials, and a wide class of input probability measures.
+We aim to approximate a continuously differentiable function $$u:\mathbb{R}^d \rightarrow \mathbb{R}$$ by a composition of functions $$f\circ g$$ where $$g:\mathbb{R}^d \rightarrow \mathbb{R}^m$$, $$m\leq d$$, and $$f : \mathbb{R}^m \rightarrow \mathbb{R}$$ are built in a two stage procedure.
+For a fixed $$g$$, we build $$f$$ using classical regression methods, involving evaluations of $$u$$.
+Recent works proposed to build a nonlinear $$g$$ by minimizing a loss function $$\mathcal{J}$$ derived from Poincar\'e inequalities on manifolds, involving evaluations of the gradient of $$u$$.
+A problem is that minimizing $$\mathcal{J}$$ may be a challenging task.
+Hence in this work, we introduce new convex surrogates to $$\mathcal{J}$$.
+Leveraging concentration inequalities, we provide sub-optimality results for a class of functions $$g$$, including polynomials, and a wide class of input probability measures.
 We investigate performances on different benchmarks for various training sample sizes.
-We show that our approach outperforms standard iterative methods for minimizing the training Poincar\'e inequality based loss, often resulting in better approximation errors, especially for rather small training sets and $m=1$.
+We show that our approach outperforms standard iterative methods for minimizing the training Poincar\'e inequality based loss, often resulting in better approximation errors, especially for rather small training sets and $$m=1$$.
