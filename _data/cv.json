@@ -192,7 +192,7 @@
       "description": "Poster"
     },
     {
-      "name": "Séminaire Landau",
+      "name": "Séminaire des jeunes chercheurs en analyse de l'IRMAR",
       "event": "IRMAR",
       "date": "2024-12-16",
       "location": "Rennes, France",
@@ -239,7 +239,14 @@
       "description": "Undergraduate course"
     }
   ],
-  "societal": [
+  "services": [
+    {
+      "name": "Committee member",
+      "institution": "Young Mathematicians in Model Order Reduction Conference (YMMOR)",
+      "startDate": "2023.09",
+      "endDate": "Present",
+      "description": ""
+    },
     {
       "name": "Doctoral student representative on the laboratory board",
       "institution": "Laboratoire de Mathématiques Jean Leray",
