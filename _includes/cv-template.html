@@ -238,21 +238,21 @@
   </div>
   {% endif %}
   
-  {% if cv.societal.size > 0 %}
-  <!-- Societal -->
+  {% if cv.services.size > 0 %}
+  <!-- Services -->
   <div class="cv-section">
-    <h2>Societal</h2>
+    <h2>Services</h2>
     <ul class="cv-list">
-      {% for societal in cv.societal %}
+      {% for services in cv.services %}
       <li class="cv-item">
         <div class="cv-item-header">
-          <div class="cv-item-title">{{ societal.name }}</div>
-          <div class="cv-item-date">{{ societal.startDate }}{% if societal.endDate %} - {{ societal.endDate }}{% endif %}</div>
+          <div class="cv-item-title">{{ services.name }}</div>
+          <div class="cv-item-date">{{ services.startDate }}{% if services.endDate %} - {{ services.endDate }}{% endif %}</div>
         </div>
         <div class="cv-item-content">
-          <div class="cv-item-subtitle">{{ societal.institution }}</div>
-          {% if societal.description %}
-          <div class="cv-item-detail">{{ societal.description }}</div>
+          <div class="cv-item-subtitle">{{ services.institution }}</div>
+          {% if services.description %}
+          <div class="cv-item-detail">{{ services.description }}</div>
           {% endif %}
         </div>
       </li>
