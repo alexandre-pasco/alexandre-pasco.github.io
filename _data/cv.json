@@ -192,6 +192,13 @@
       "description": "Poster"
     },
     {
+      "name": "Séminaire Landau",
+      "event": "IRMAR",
+      "date": "2024-12-16",
+      "location": "Rennes, France",
+      "description": "Talk"
+    },
+    {
       "name": "Young Mathematicians in Model Order Reduction Conference (YMMOR)",
       "event": "SISSA",
       "date": "2025-05-08",
