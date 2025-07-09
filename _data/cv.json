@@ -186,10 +186,17 @@
     },
     {
       "name": "46ème Congrès National d'Analyse Numérique (CANUM)",
-      "event": "CANUM",
+      "event": "LMJL",
       "date": "2024-05-27",
       "location": "Ile de Ré, France",
       "description": "Poster"
+    },
+    {
+      "name": "Semaines d'Etudes Mathematiques - Entreprises et Societe (SEMES)",
+      "event": "LMJL",
+      "date": "2024-11-22",
+      "location": "Nantes, France",
+      "description": "Talk"
     },
     {
       "name": "Séminaire des jeunes chercheurs en analyse de l'IRMAR",
