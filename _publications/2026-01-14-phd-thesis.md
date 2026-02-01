@@ -5,9 +5,9 @@ category: other
 permalink: /publication/2026-01-14-phd-thesis
 excerpt: 'High-dimensional approximation, dimension reduction, inverse problems, random sketching, Poincaré inequality'
 date: 2026-01-14
-venue: "TBA"
+venue: "HAL"
 slidesurl: 'https://alexandre-pasco.github.io/files/publications/2026-01-14-phd-thesis/slides.pdf'
-paperurl: ''
+paperurl: 'https://hal.science/view/index/docid/5469205'
 bibtexurl: 'https://alexandre-pasco.github.io/files/publications/2026-01-14-phd-thesis/citation.bib'
 citation: 'Pasco, A. (2026). Nonlinear dimension reduction for high dimensional approximation and inverse problems.'
 ---
