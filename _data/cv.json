@@ -120,11 +120,25 @@
       "summary": "Inverse problem, model order reduction, sparse approximation, randomized linear algebra."
     },
     {
-      "name": "Surrogate to Poincaré inequalities on manifolds for dimension reduction in nonlinear feature spaces",
+      "name": "Surrogate to Poincaré inequalities on manifolds for dimension reduction in nonlinear feature spaces (Preprint)",
       "publisher": "arXiv",
       "releaseDate": "2025-05-23",
       "website": "https://arxiv.org/abs/2505.01807",
       "summary": "High-dimensional approximation, Poincaré inequality, dimension reduction, nonlinear feature learning, deviation inequalities."
+    },
+    {
+      "name": "Surrogate to Poincaré inequalities on manifolds for structured dimension reduction in nonlinear feature spaces (Preprint)",
+      "publisher": "arXiv",
+      "releaseDate": "2026-02-01",
+      "website": "https://arxiv.org/abs/2602.01143",
+      "summary": "High-dimensional approximation, Poincaré inequality, collective dimension reduction, structured dimension reduction, nonlinear feature learning, deviation inequalities."
+    },
+    {
+      "name": "Nonlinear dimension reduction for high dimensional approximation and inverse problems (PhD Thesis)",
+      "publisher": "HAL",
+      "releaseDate": "2026-02-01",
+      "website": "https://hal.science/tel-05469205v1",
+      "summary": "High-dimensional approximation, dimension reduction, inverse problems, random sketching, Poincaré inequality."
     }
   ],
   "presentations": [
@@ -217,6 +231,13 @@
       "event": "Université Grenoble Alpes",
       "date": "2025-05-22",
       "location": "Grenoble, France",
+      "description": "Talk"
+    },
+    {
+      "name": "PhD defense",
+      "event": "Ecole Centrale de Nantes, Nantes Université",
+      "date": "2026-01-14",
+      "location": "Nantes, France",
       "description": "Talk"
     }
   ],
