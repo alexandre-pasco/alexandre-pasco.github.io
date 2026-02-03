@@ -9,7 +9,7 @@ venue: 'Advances in Computational Mathematics, Volume 50, article number 32, (20
 slidesurl: 'https://alexandre-pasco.github.io/files/publications/2024-04-24-dictionary-model-reduction-state-estimation/slides.pdf'
 paperurl: 'https://doi.org/10.1007/s10444-024-10129-4'
 bibtexurl: 'https://alexandre-pasco.github.io/files/publications/2024-04-24-dictionary-model-reduction-state-estimation/citation.pdf'
-citation: 'Nouy, A., & Pasco, A. (2024). Dictionary-Based Model Reduction for State Estimation. Adv Comput Math, 50(3), 32. doi:10.1007/s10444-024-10129-4'
+citation: 'Nouy, A. and Pasco, A. (2024). Dictionary-Based Model Reduction for State Estimation. Adv Comput Math, 50(3), 32. doi:10.1007/s10444-024-10129-4'
 ---
 
 ## Abstract
