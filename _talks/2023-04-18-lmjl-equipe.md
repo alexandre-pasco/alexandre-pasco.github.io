@@ -11,4 +11,7 @@ location: "Nantes, France"
 Dictionary-based model reduction for state estimation.
 
 This talk is associated to [this publication](/publication/2025-04-24-dictionary-model-reduction-state-estimation).
+
 For more information, see this [link](https://www.math.sciences.univ-nantes.fr/exposes/6882).
+
+The (compressed) slides can be downloaded [here](https://alexandre-pasco.github.io/files/presentations/2023/202304-lmjl-compressed.pdf).
