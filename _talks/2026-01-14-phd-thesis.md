@@ -10,4 +10,4 @@ location: "Nantes, France"
 
 Nonlinear dimension reduction for high dimensional approximation and inverse problems.
 
-The (compressed) slides can be downloaded [here](https://alexandre-pasco.github.io/files/presentations/2026/20260112-phd-defense-compressed.pdf).
+The (compressed) slides can be downloaded [here](https://alexandre-pasco.github.io/files/presentations/2026/20260114-phd-defense-compressed.pdf).
