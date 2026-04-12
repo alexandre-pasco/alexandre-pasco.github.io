@@ -1,15 +1,15 @@
 {
   "basics": {
     "name": "Alexandre Pasco",
-    "email": "alexandre.pasco@ec-nantes.fr",
+    "email": "alexandre.pasco@epfl.ch",
     "phone": "(+33)645113090",
     "website": "https://alexandre-pasco.github.io",
-    "summary": "Ph.D in applied mathematics at Ecole Centrale de Nantes. My research is mainly about dimension reduction methods for high-dimensional approximation and inverse problems. I try my best to promote open science.",
+    "summary": "Postdoctoral Researcher at EPFL, chair HPNALGS. Previously Ph.D in applied mathematics at Ecole Centrale de Nantes. My research is mainly about dimension reduction and randomized methods for high-dimensional approximation and inverse problems. I try my best to promote open science.",
     "location": {
       "address": "",
-      "postalCode": "44000",
-      "city": "Nantes",
-      "countryCode": "FR",
+      "postalCode": "1015",
+      "city": "Lausanne",
+      "countryCode": "CH",
       "region": ""
     },
     "profiles": [
@@ -36,6 +36,14 @@
     ]
   },
   "work": [
+    {
+      "company": "Ecole Polytechnique Fédérale de Lausanne, Chair HPNALGS",
+      "position": "Postdoctoral Researcher",
+      "startDate": "2026.04", 
+      "endDate": "Present",
+      "summary": null,
+      "highlights": []
+    },
     {
       "company": "Ecole Centrale de Nantes",
       "position": "Teacher assistant",
@@ -120,10 +128,10 @@
       "summary": "Inverse problem, model order reduction, sparse approximation, randomized linear algebra."
     },
     {
-      "name": "Surrogate to Poincaré inequalities on manifolds for dimension reduction in nonlinear feature spaces (Preprint)",
-      "publisher": "arXiv",
-      "releaseDate": "2025-05-23",
-      "website": "https://arxiv.org/abs/2505.01807",
+      "name": "Surrogate to Poincaré inequalities on manifolds for dimension reduction in nonlinear feature spaces",
+      "publisher": "Information and Inference: A Journal of the IMA, Volume 15, Issue 1, March 2026, iaag005",
+      "releaseDate": "2026-03-16",
+      "website": "https://doi.org/10.1093/imaiai/iaag005",
       "summary": "High-dimensional approximation, Poincaré inequality, dimension reduction, nonlinear feature learning, deviation inequalities."
     },
     {
@@ -238,6 +246,13 @@
       "event": "Ecole Centrale de Nantes, Nantes Université",
       "date": "2026-01-14",
       "location": "Nantes, France",
+      "description": "Talk"
+    },
+    {
+      "name": "Congrès des Jeunes Chercheuses et Chercheurs en Mathématiques et Applications (CJC-MA)",
+      "event": "Ecole Nationale des Ponts et Chaussées",
+      "date": "2026-03-03",
+      "location": "Champs-sur-Marne, France",
       "description": "Talk"
     }
   ],
