@@ -1,15 +1,15 @@
 ---
-title: "Surrogate to Poincaré inequalities on manifolds for dimension reduction in nonlinear feature spaces"
+title: 'Surrogate to Poincaré inequalities on manifolds for dimension reduction in nonlinear feature spaces'
 collection: publications
-category: preprints
-permalink: /publication/2025-05-23-surrogate-poincare-nonlinear-features
+category: manuscripts
+permalink: /publication/2026-03-16-surrogate-poincare-nonlinear-features
 excerpt: 'High-dimensional approximation, Poincaré inequality, dimension reduction, nonlinear feature learning, deviation inequalities.'
-date: 2025-05-23
-venue: "arXiv"
-slidesurl: 'https://alexandre-pasco.github.io/files/publications/2025-05-23-surrogate-poincare-nonlinear-features/slides.pdf'
+date: 2026-03-16
+venue: 'Information and Inference: A Journal of the IMA, Volume 15, Issue 1, March 2026, iaag005'
+slidesurl: 'https://alexandre-pasco.github.io/files/publications/22026-03-16-surrogate-poincare-nonlinear-features/slides.pdf'
 paperurl: 'https://arxiv.org/abs/2505.01807'
-bibtexurl: 'https://alexandre-pasco.github.io/files/publications/2025-05-23-surrogate-poincare-nonlinear-features/citation.bib'
-citation: 'Nouy, A. and Pasco, A. (2025). Surrogate to Poincaré inequalities on manifolds for dimension reduction in nonlinear feature spaces. Preprint. doi:10.48550/arXiv.2505.01807'
+bibtexurl: 'https://alexandre-pasco.github.io/files/publications/2026-03-16-surrogate-poincare-nonlinear-features/citation.bib'
+citation: 'Nouy, A. and Pasco, A. Information and Inference: A Journal of the IMA, Volume 15, Issue 1, March 2026, iaag005, https://doi.org/10.1093/imaiai/iaag005'
 ---
 
 
