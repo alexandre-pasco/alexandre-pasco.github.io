@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Alexandre Pasco"
 title_separator          : "-"
 name                     : &name "Alexandre Pasco"
-description              : &description "Ph.D. in applied mathematics"
+description              : &description "Postdoctoral Researcher, Ph.D., applied mathematics"
 url                      : https://alexandre-pasco.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alexandre-pasco/alexandre-pasco.github.io"
@@ -25,11 +25,11 @@ author:
   avatar           : "profile.jpg"
   name             : "Alexandre Pasco"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. in applied mathematics"
-  location         : "Nantes - France"
-  employer         : "Ecole Centrale de Nantes"
+  bio              : "Postdoctoral Researcher, Ph.D., applied mathematics"
+  location         : "Lausanne - Switzerland"
+  employer         : "EPFL"
   uri              : # URL
-  email            : "alexandre.pasco@ec-nantes.fr" 
+  email            : "alexandre.pasco@epfl.ch" 
 
   # Academic websites
   academia         : # URL
