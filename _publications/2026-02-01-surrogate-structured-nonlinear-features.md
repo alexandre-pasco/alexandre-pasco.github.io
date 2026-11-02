@@ -1,15 +1,15 @@
 ---
-title: "Surrogate to Poincaré inequalities on manifolds for structured dimension reduction in nonlinear feature spaces"
+title: "Gradient-based collective and structured nonlinear dimension reduction with quadratic surrogates"
 collection: publications
 category: preprints
 permalink: /publication/2026-02-01-surrogate-structured-nonlinear-features
 excerpt: 'High-dimensional approximation, Poincaré inequality, collective dimension reduction, structured dimension reduction, nonlinear feature learning, deviation inequalities.'
 date: 2026-02-01
 venue: "arXiv"
-slidesurl: #'https://alexandre-pasco.github.io/files/publications/2026-02-01-surrogate-structurd-nonlinear-features/slides.pdf'
+slidesurl: 'https://alexandre-pasco.github.io/files/publications/2026-02-01-surrogate-structured-nonlinear-features/slides.pdf'
 paperurl: 'https://arxiv.org/abs/2602.01143'
-bibtexurl: 'https://alexandre-pasco.github.io/files/publications/2026-02-01-surrogate-structurd-nonlinear-features/citation.bib'
-citation: 'Pasco, A. and Nouy, A. (2025). Surrogate to Poincaré inequalities on manifolds for structured dimension reduction in nonlinear feature spaces. Preprint. doi:10.48550/arXiv.2602.01143'
+bibtexurl: 'https://alexandre-pasco.github.io/files/publications/2026-02-01-surrogate-structured-nonlinear-features/citation.bib'
+citation: 'Pasco, A. and Nouy, A. (2025). Gradient-based collective and structured nonlinear dimension reduction with quadratic surrogates. Preprint. doi:10.48550/arXiv.2602.01143'
 ---
 
 
