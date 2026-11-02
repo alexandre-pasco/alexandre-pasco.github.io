@@ -4,7 +4,7 @@
     "email": "alexandre.pasco@epfl.ch",
     "phone": "(+33)645113090",
     "website": "https://alexandre-pasco.github.io",
-    "summary": "Postdoctoral Researcher at EPFL, chair HPNALGS. Previously Ph.D in applied mathematics at Ecole Centrale de Nantes. My research is mainly about dimension reduction and randomized methods for high-dimensional approximation and inverse problems. I try my best to promote open science.",
+    "summary": "Postdoctoral researcher at EPFL in the HPNALGS chair, previously a Ph.D. student in applied mathematics at École Centrale de Nantes. My research focuses on dimension reduction, randomized methods for high-dimensional approximation and inverse problems, and algebraic domain decomposition methods. I am also committed to promoting open science.",
     "location": {
       "address": "",
       "postalCode": "1015",
@@ -110,11 +110,11 @@
     },
     {
       "language": "Japanese",
-      "fluency": "Intermediate (JLPT N4)"
+      "fluency": "Elementary (JLPT N4)"
     },
     {
-      "language": "Spanish",
-      "fluency": "Beginner"
+      "language": "German",
+      "fluency": "Beginner (currently learning)"
     }
   ],
   "interests": [],
@@ -135,7 +135,7 @@
       "summary": "High-dimensional approximation, Poincaré inequality, dimension reduction, nonlinear feature learning, deviation inequalities."
     },
     {
-      "name": "Surrogate to Poincaré inequalities on manifolds for structured dimension reduction in nonlinear feature spaces (Preprint)",
+      "name": "Gradient-based collective and structured nonlinear dimension reduction with quadratic surrogates (Preprint)",
       "publisher": "arXiv",
       "releaseDate": "2026-02-01",
       "website": "https://arxiv.org/abs/2602.01143",
@@ -254,6 +254,20 @@
       "date": "2026-03-03",
       "location": "Champs-sur-Marne, France",
       "description": "Talk"
+    },
+    {
+      "name": "11th International Conference on Curves and Surfaces",
+      "event": "Palais des Congrès",
+      "date": "2026-06-08",
+      "location": "Saint-Malo, France",
+      "description": "Talk"
+    },
+    {
+      "name": "RandNLA workshop",
+      "event": "Bernoulli Center for Fundamental Studies",
+      "date": "2026-06-15",
+      "location": "Lausanne, Switzerland",
+      "description": "Poster"
     }
   ],
   "teaching": [
