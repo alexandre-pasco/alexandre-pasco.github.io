@@ -23,7 +23,7 @@ USER vscode
 
 # Copy the dependency manifest and lockfile together so the image contains the
 # exact versions that Bundler will enforce at runtime.
-COPY Gemfile Gemfile.lock ./
+COPY --chown=vscode:vscode Gemfile Gemfile.lock ./
 
 
 
