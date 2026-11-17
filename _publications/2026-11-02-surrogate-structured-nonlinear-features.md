@@ -6,7 +6,7 @@ permalink: /publication/2026-11-02-surrogate-structured-nonlinear-features
 excerpt: 'High-dimensional approximation, Poincaré inequality, collective dimension reduction, structured dimension reduction, nonlinear feature learning, deviation inequalities.'
 date: 2026-11-02
 venue: 'ESAIM: Probability and Statistics, Volume 30'
-slidesurl: 'https://alexandre-pasco.github.io/files/publications/20260608-curves-and-surfaces-compressed.pdf'
+slidesurl: 'https://alexandre-pasco.github.io/files/presentations/2026/20260608-curves-and-surfaces-compressed.pdf'
 paperurl: 'https://arxiv.org/abs/2602.01143'
 bibtexurl: 'https://alexandre-pasco.github.io/files/publications/2026-11-02-surrogate-structured-nonlinear-features/citation.bib'
 citation: 'Pasco, A. and Nouy, A., Gradient-based collective and structured nonlinear dimension reduction with quadratic surrogates. ESAIM: PS 30 (2026). doi:10.1051/ps/2026026'
