@@ -157,6 +157,34 @@
     </ul>
   </div>
   {% endif %}
+
+  {% if cv.preprints.size > 0 %}
+  <!-- Preprints -->
+  <div class="cv-section">
+    <h2>Preprints</h2>
+    <ul class="cv-list">
+      {% for preprint in cv.preprints %}
+      <li class="cv-item">
+        <div class="cv-item-header">
+          <div class="cv-item-title">{{ preprint.name }}</div>
+          <div class="cv-item-date">{{ preprint.releaseDate | slice: 0, 4 }}</div>
+        </div>
+        <div class="cv-item-content">
+          <div class="cv-item-subtitle">{{ preprint.publisher }}</div>
+          {% if preprint.summary %}
+          <div class="cv-item-detail">{{ preprint.summary }}</div>
+          {% endif %}
+          {% if preprint.website %}
+          <div class="cv-item-detail">
+            <a href="{{ preprint.website }}" target="_blank">View Preprint</a>
+          </div>
+          {% endif %}
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
   
   {% if cv.presentations.size > 0 %}
   <!-- Presentations/Talks -->
