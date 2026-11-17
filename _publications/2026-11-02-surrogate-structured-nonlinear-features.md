@@ -1,17 +1,17 @@
 ---
-title: "Gradient-based collective and structured nonlinear dimension reduction with quadratic surrogates"
+title: 'Gradient-based collective and structured nonlinear dimension reduction with quadratic surrogates'
 collection: publications
-category: preprints
-permalink: /publication/2026-02-01-surrogate-structured-nonlinear-features
+category: manuscripts
+permalink: /publication/2026-11-02-surrogate-structured-nonlinear-features
 excerpt: 'High-dimensional approximation, Poincaré inequality, collective dimension reduction, structured dimension reduction, nonlinear feature learning, deviation inequalities.'
-date: 2026-02-01
-venue: "arXiv"
-slidesurl: 'https://alexandre-pasco.github.io/files/publications/2026-02-01-surrogate-structured-nonlinear-features/slides.pdf'
+date: 2026-11-02
+venue: 'ESAIM: Probability and Statistics, Volume 30'
+slidesurl: 'https://alexandre-pasco.github.io/files/publications/20260608-curves-and-surfaces-compressed.pdf'
 paperurl: 'https://arxiv.org/abs/2602.01143'
-bibtexurl: 'https://alexandre-pasco.github.io/files/publications/2026-02-01-surrogate-structured-nonlinear-features/citation.bib'
-citation: 'Pasco, A. and Nouy, A. (2025). Gradient-based collective and structured nonlinear dimension reduction with quadratic surrogates. Preprint. doi:10.48550/arXiv.2602.01143'
+bibtexurl: 'https://alexandre-pasco.github.io/files/publications/2026-11-02-surrogate-structured-nonlinear-features/citation.bib'
+citation: 'Pasco, A. and Nouy, A., Gradient-based collective and structured nonlinear dimension reduction with quadratic surrogates. ESAIM: PS 30 (2026). doi:10.1051/ps/2026026'
 ---
-
+<!---UPDATE NEEDED for pages in the venue. change the venue and citations fields-->
 
 ## Abstract
 This paper is concerned with the approximation of continuously differentiable functions with high-dimensional input by a composition of two functions: a feature map that extracts few features from the input space, and a profile function that approximates the target function taking the features as its low-dimensional input.
